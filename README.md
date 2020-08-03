@@ -76,7 +76,7 @@ Each time you finish one of these group challenges, check it off (`- [x]`) and p
 - [ ] 27 - [Click & Drag]()
 - [ ] 28 - [Video Speed Controller]()
 - [ ] 29 - [Countdown timer]()
-- [ ] 30 - [Whack a Mole]()
+- [x] 30 - [Whack a Mole](https://github.com/HazemBittar/Whack-A-Mole-)
 
 [TOP](#javascript-30)
 
